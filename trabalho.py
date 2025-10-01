@@ -54,6 +54,35 @@ nu = 1
 while nu <= 5:
     nu += 1
     nome = input("digite um nome")
+#10
+soma = 0
+nu = 0
+while nu < 5:
+    numero = int(input("digite o número"))
+    soma += numero
+    nu += 1
+    print("soma =", soma)
+ 
+#11
+nu = 5
+while nu <= 50:
+    print(nu)   
+    nu += 5
+'''
+#12
+numero = int(input("digite um número"))
+nu = 0
+while nu <= numero:
+    print(nu)
+    nu += 1
+    
+
+
+    
+    
+    
+
+
 
 
 
